@@ -1,2 +1,2 @@
-# Gsuperi
-Terminal Text Editor
+### Gsuperi
+Coming soon
