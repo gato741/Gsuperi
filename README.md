@@ -1,0 +1,2 @@
+# Gsuperi
+Terminal Text Editor
